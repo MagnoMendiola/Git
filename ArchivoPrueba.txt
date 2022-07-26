@@ -1,4 +1,8 @@
 Esto es una prueba
 prueba 2
+<<<<<<< HEAD
 Prueba 3
 Prueba 4
+=======
+Prueba branch
+>>>>>>> rama-prueba

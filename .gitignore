@@ -1,3 +1,8 @@
 *.psd
 Ignore.txt
+<<<<<<< HEAD
 Git commands.docx
+=======
+Git commands.docx
+*.tmp
+>>>>>>> rama-prueba
